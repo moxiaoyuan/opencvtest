@@ -1,0 +1,4 @@
+negative/bg1.jpg
+negative/bg2.jpg
+negative/bg3.jpg
+negative/bg4.jpg
